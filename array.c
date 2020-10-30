@@ -11,7 +11,7 @@ scanf("%d", &arr[i]);
 }
 for(i=0;i<n;i++)
 {
-if(arr[i]!=0)
+if(arr[i]!=0)//this is the condition
 {
 printf("%d", arr[i]);
 }
