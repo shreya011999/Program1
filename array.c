@@ -13,7 +13,7 @@ for(i=0;i<n;i++)
 {
 if(arr[i]!=0)//this is the condition
 {
-printf("%d", arr[i]);
+printf("%d", arr[i]);//printing the required array elements
 }
 }
 }
